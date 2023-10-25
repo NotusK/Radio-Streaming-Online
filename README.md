@@ -1,7 +1,7 @@
 # Radio-Streaming-Online
 
 Made from the ground up by kelompok 5.\
-You can just run the code in your IDE using python and Voila, Very Basic Appearance.\
+To run the code you can just execute the code in your IDE using python and Voila, Very basic appearance though.\
 \
 ![alt text](https://i.ibb.co/932dbNn/ss.png)\
 \
