@@ -1,5 +1,5 @@
 # Radio-Streaming-Online
-Made from the ground up by kelompok 5.
+Dibuat oleh kelompok 5.
 
 # Preview
 ![alt text](https://i.ibb.co/2WvjYDd/ss.png)
