@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radio Streaming</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="web-name">Radio Streaming Online</h1>
+        <div class="station-info">
+            <h2 id="station-name">Station Name</h2>
+        </div>
+        <div class="station-buttons">
+            <button class="station-button" data-url="http://202.147.199.98/;stream.nsv" data-name="Global Radio">Global Radio</button>
+            <button class="station-button" data-url="http://ice2.somafm.com/folkfwd-128-mp3" data-name="SomaFM Folk Forward">SomaFM Folk Forward</button>
+            <button class="station-button" data-url="http://stream-dc1.radioparadise.com/aac-320" data-name="Radio Paradise">Radio Paradise</button>
+            <button class="station-button" data-url="http://202.147.199.101:8000/;stream.nsv" data-name="Sindo Trijaya FM">Sindo Trijaya FM</button>
+            <button class="station-button" data-url="http://45.64.97.211:1031/;stream.nsv" data-name="Radio Bandung">Radio Bandung</button>
+        </div>
+        <audio id="radio" controls autoplay>
+            <source src="" type="audio/mpeg">
+        </audio>
+    </div>
+    
+</body>
+<script src="script.js"></script>
+</html>
